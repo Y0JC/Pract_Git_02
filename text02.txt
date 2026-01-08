@@ -1,3 +1,5 @@
 Documento text02
 
 Primer cambio del archivo text02
+
+Cambio adicional 
