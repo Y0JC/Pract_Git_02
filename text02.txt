@@ -1,1 +1,3 @@
-Primer cambio del documento text02
+Documento text02
+
+Primer cambio del archivo text02
