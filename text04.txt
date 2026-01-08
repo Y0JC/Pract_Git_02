@@ -1,3 +1,4 @@
 Comentario añadido de rama01
 
-Comentario prueba conflicto 000000
+Comentario prueba conflicto123456
+
