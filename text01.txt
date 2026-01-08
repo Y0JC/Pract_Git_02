@@ -1,3 +1,5 @@
 Documento text01
 
-Segundo cambio del archivo
+Primer cambio del archivo text01
+
+Segundo cambio
